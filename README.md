@@ -13,9 +13,9 @@
 
 ## 예식정보
 
-* 날짜 : 2019년 5월 18일 14시 30분
-* 장소 : 부산광역시 해운대구 센텀시티 센텀사이언스파크 23층
-* 청첩장 url : https://andersonchoi.github.io/wedding-card/
+* 날짜 : 2023년 9월 16일 14시
+* 장소 : 부산 연제구 연산동, 국민연금 W웨딩홀 3층 에메랄드 홀
+* 청첩장 url : https://JHSon96.github.io/wedding-card/
 
 ## 축하의 말
 
